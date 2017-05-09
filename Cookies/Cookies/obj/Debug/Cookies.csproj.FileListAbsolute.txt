@@ -1,0 +1,6 @@
+\\mac\home\documents\visual studio 2015\Projects\Cookies\Cookies\bin\Debug\Cookies.exe.config
+\\mac\home\documents\visual studio 2015\Projects\Cookies\Cookies\bin\Debug\Cookies.exe
+\\mac\home\documents\visual studio 2015\Projects\Cookies\Cookies\bin\Debug\Cookies.pdb
+\\mac\home\documents\visual studio 2015\Projects\Cookies\Cookies\obj\Debug\Cookies.csprojResolveAssemblyReference.cache
+\\mac\home\documents\visual studio 2015\Projects\Cookies\Cookies\obj\Debug\Cookies.exe
+\\mac\home\documents\visual studio 2015\Projects\Cookies\Cookies\obj\Debug\Cookies.pdb
